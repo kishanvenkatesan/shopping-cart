@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My project for DBMS using mern with typescript",
   "main": "index.js",
-  "author": "Kishan",
+  "author": "Kishan V, Adhav, Patrick Abeshek",
   "license": "ISC",
   "scripts": {
     "start:dev": "webpack-dev-server",

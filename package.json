@@ -1,9 +1,9 @@
 {
 	"name": "fullstack-shopping-cart",
 	"version": "1.0.0",
-	"description": "Laptop shopping cart",
+	"description": "Secure eshopping website cart",
 	"main": "server.js",
-	"author": "Kishan V",
+	"author": "Kishan V, Adhav, Patrick Abeshek",
 	"license": "ISC",
 	"engines": {
 		"node": "10.15.3"
